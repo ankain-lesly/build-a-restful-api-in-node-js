@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Minimal and stable Rest API Service with node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "JS",
+    "API",
+    "Rest",
+    "API",
+    "Backend"
+  ],
+  "author": "Ankain lesly",
+  "license": "ISC"
+}
