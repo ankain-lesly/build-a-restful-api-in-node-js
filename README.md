@@ -24,7 +24,7 @@ A Rest Client like _Postman_ or _Thunder client_ for VS Code can be used to test
 ## API Endpoints
 
 ```js
-// Local Dev
+// Local Development: API Endpoints
 
 const port = 5001;
 const server = `http://localhost:${port}`;
@@ -44,8 +44,8 @@ const HomeInfo = await fetch("/");
     > Delete single contact
 
 
-
 >>> User
+
   :POST > /api/users/register
     > Register user
       {username, email, password}
