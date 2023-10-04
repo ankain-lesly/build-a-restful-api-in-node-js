@@ -1,4 +1,8 @@
-// Default Controller
+/**
+ * MainController
+ * Handles Basis app info
+ *
+ */
 
 const Home = (req, res) => {
   res.status(200).json({ message: "Home Page Info" });

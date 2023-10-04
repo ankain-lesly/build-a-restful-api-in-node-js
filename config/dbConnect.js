@@ -1,3 +1,9 @@
+/**
+ * DBConnection
+ * Establishing a connection to Database
+ *
+ */
+
 const mongoose = require("mongoose");
 
 const dbConnect = async () => {

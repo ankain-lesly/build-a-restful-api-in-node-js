@@ -1,6 +1,9 @@
 /**
  * Node JS Server
- * Rest API
+ * Rest API Core
+ *
+ * @author  Ankain Lesly <leeleslyank@gmail.com>
+ * @package  App\Nodejs\API
  */
 
 const express = require("express");

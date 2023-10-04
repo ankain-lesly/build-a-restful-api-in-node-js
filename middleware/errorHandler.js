@@ -1,3 +1,9 @@
+/**
+ * ErrorHandler
+ * Basis Routing exception handling and response status
+ *
+ */
+
 const { constants } = require("../constants/constants.js");
 const errorHandler = (err, req, res, next) => {
   const statusCode = res.statusCode ? res.statusCode : 500;

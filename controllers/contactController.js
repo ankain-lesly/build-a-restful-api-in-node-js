@@ -1,3 +1,9 @@
+/**
+ * ContactController
+ * Handling Contacts & DB manipulation
+ *
+ */
+
 const asyncHandler = require("express-async-handler");
 const Contact = require("../models/contactModel.js");
 //@desc : Get all contacts
